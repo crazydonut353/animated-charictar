@@ -1,2 +1,2 @@
 # animated-charictar
-WOW
+Did you say "anime"-ted charictar
